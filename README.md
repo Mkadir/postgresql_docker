@@ -71,7 +71,7 @@ Now, to start the db and pgadmin services, run the following command:
 ```
 docker-compose up -d
 ```
-_After commands i terminal __
+After commands in terminal
 ```
 Status: Downloaded newer image for dpage/pgadmin4:4.18
 Creating pgdev_db_1 ... done
