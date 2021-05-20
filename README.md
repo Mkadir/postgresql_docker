@@ -25,7 +25,7 @@ Now, navigate to the project directory ~/docker/pgdev as follows:
 cd ~/docker/pgdev
 ```
 Now, create a **docker-compose.yaml** file in the project directory _~/docker/pgdev_ and type in the following lines in the **docker-compose.yaml** file.
-**The docker-compose.yaml file should look as follows.**
+**The docker-compose.yaml** file should look as follows.
 ```
 version: "3.7"
 services:
