@@ -46,7 +46,7 @@ services:
     image: dpage/pgadmin4:4.18
     restart: always
     environment:
-      PGADMIN_DEFAULT_EMAIL: admin@linuxhint.com
+      PGADMIN_DEFAULT_EMAIL: muhammadalihakimov03@gmail.com
       PGADMIN_DEFAULT_PASSWORD: secret
       PGADMIN_LISTEN_PORT: 80
     ports:
